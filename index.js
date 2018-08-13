@@ -22,7 +22,7 @@ function iLoveTheBeatles(n) {
   empty.push("I love the Beatles!");
   n++;
  } while (n < 15);
-  empty.push("I love the Beatles!");
+  return empty;
 }
 
 
